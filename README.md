@@ -1,1 +1,4 @@
-# Machine_Learning
+# Beyond the Tap: Using Machine Learning to Evaluate Water Quality in Urban Areas
+
+The goal is to provide actionable insights for policymakers and environmental agencies that can take measures to preserve the aquatic ecosystem. In this study, water quality is assessed by inputting the concentrations of various parameters into machine learning algorithms, which then classify the water as either safe or unsafe for domestic use. The proposed solution leverages advanced ML algorithms, such as KNN classifier, K-means, Random Forest Regression, XGBoost, LightGBM or CatBoost, to process collected data and predict the water health which will help systems to provide timely alerts for potential health hazards and ecological threats, significantly improving water resource management and public health.
+
